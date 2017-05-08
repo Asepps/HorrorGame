@@ -744,3 +744,338 @@ LogInit: Object subsystem initialized
 [2017.05.08-16.45.15:818][492]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
 [2017.05.08-16.45.15:832][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 3.725
 [2017.05.08-16.45.15:833][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.725
+[2017.05.08-17.12.20:974][979]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.08-17.12.21:018][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.21:018][979]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.05.08-17.12.21:018][979]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.05.08-17.12.21:780][979]LogPlayLevel: PlayLevel: Blueprint regeneration took 761 ms (1 blueprints)
+[2017.05.08-17.12.21:780][979]PIE: New page: PIE session: ThirdPersonExampleMap (May 8, 2017, 9:12:21 AM)
+[2017.05.08-17.12.21:780][979]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.05.08-17.12.21:810][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029676s)
+[2017.05.08-17.12.21:813][979]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.05.08-17.12.21:813][979]LogPlayLevel: PIE: World Init took: (0.003382s)
+[2017.05.08-17.12.21:813][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033475s)
+[2017.05.08-17.12.21:868][979]LogInit: XAudio2 using 'Speakers (4- USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-17.12.21:875][979]LogInit: FAudioDevice initialized.
+[2017.05.08-17.12.21:910][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.05.08-17.12.21:913][979]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.05.08-13.12.21
+[2017.05.08-17.12.21:913][979]LogWorld: Bringing up level for play took: 0.002578
+[2017.05.08-17.12.21:916][979]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.798
+[2017.05.08-17.12.21:916][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.21:917][979]PIE:Warning: Warning Mobility of HungerPickupF_246 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2017.05.08-17.12.31:902][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.12.37:362][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.37:436][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.45:687][584]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.08-17.12.45:754][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.45:755][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.08-17.12.45:755][584]PIE: New page: PIE session: ThirdPersonExampleMap (May 8, 2017, 9:12:45 AM)
+[2017.05.08-17.12.45:755][584]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.05.08-17.12.45:804][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049025s)
+[2017.05.08-17.12.45:807][584]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.05.08-17.12.45:807][584]LogPlayLevel: PIE: World Init took: (0.003035s)
+[2017.05.08-17.12.45:808][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052527s)
+[2017.05.08-17.12.45:860][584]LogInit: XAudio2 using 'Speakers (4- USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-17.12.45:865][584]LogInit: FAudioDevice initialized.
+[2017.05.08-17.12.45:896][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.05.08-17.12.45:898][584]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.05.08-13.12.45
+[2017.05.08-17.12.45:899][584]LogWorld: Bringing up level for play took: 0.003103
+[2017.05.08-17.12.45:902][584]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.782
+[2017.05.08-17.12.45:903][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.12.45:903][584]PIE:Warning: Warning Mobility of HungerPickupF_246 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2017.05.08-17.12.51:515][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Sprinting
+[2017.05.08-17.12.51:694][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 97
+[2017.05.08-17.12.51:921][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 94
+[2017.05.08-17.12.52:129][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2017.05.08-17.12.52:362][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2017.05.08-17.12.52:594][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2017.05.08-17.12.52:794][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2017.05.08-17.12.53:000][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2017.05.08-17.12.53:202][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2017.05.08-17.12.53:400][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2017.05.08-17.12.53:632][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2017.05.08-17.12.53:700][821]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Released
+[2017.05.08-17.12.53:834][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 67
+[2017.05.08-17.12.53:864][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 68
+[2017.05.08-17.12.54:065][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2017.05.08-17.12.54:274][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2017.05.08-17.12.54:511][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 71
+[2017.05.08-17.12.54:730][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 72
+[2017.05.08-17.12.54:931][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2017.05.08-17.12.55:141][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 74
+[2017.05.08-17.12.55:356][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.12.55:557][875]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2017.05.08-17.12.55:663][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.12.55:763][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 77
+[2017.05.08-17.12.55:970][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2017.05.08-17.12.56:175][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2017.05.08-17.12.56:376][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2017.05.08-17.12.56:609][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2017.05.08-17.12.56:812][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2017.05.08-17.12.57:043][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2017.05.08-17.12.57:248][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2017.05.08-17.12.57:484][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2017.05.08-17.12.57:714][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2017.05.08-17.12.57:849][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Sprinting
+[2017.05.08-17.12.57:917][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2017.05.08-17.12.58:051][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2017.05.08-17.12.58:258][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2017.05.08-17.12.58:464][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2017.05.08-17.12.58:672][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.12.58:874][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 72
+[2017.05.08-17.12.59:104][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2017.05.08-17.12.59:309][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 66
+[2017.05.08-17.12.59:516][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 63
+[2017.05.08-17.12.59:726][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2017.05.08-17.12.59:943][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 57
+[2017.05.08-17.13.00:149][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 54
+[2017.05.08-17.13.00:364][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2017.05.08-17.13.00:569][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2017.05.08-17.13.00:773][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2017.05.08-17.13.00:979][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2017.05.08-17.13.01:182][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2017.05.08-17.13.01:382][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2017.05.08-17.13.01:584][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2017.05.08-17.13.01:789][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2017.05.08-17.13.01:991][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2017.05.08-17.13.02:195][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2017.05.08-17.13.02:402][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2017.05.08-17.13.02:497][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Released
+[2017.05.08-17.13.02:538][ 80]LogBlueprintUserMessages: [HungerPickupF3_86] 100
+[2017.05.08-17.13.02:636][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18
+[2017.05.08-17.13.02:669][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19
+[2017.05.08-17.13.02:896][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2017.05.08-17.13.03:098][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 21
+[2017.05.08-17.13.03:329][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 22
+[2017.05.08-17.13.03:556][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 23
+[2017.05.08-17.13.03:759][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 24
+[2017.05.08-17.13.03:959][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2017.05.08-17.13.04:189][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 26
+[2017.05.08-17.13.04:422][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 27
+[2017.05.08-17.13.04:638][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 28
+[2017.05.08-17.13.04:839][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2017.05.08-17.13.05:046][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2017.05.08-17.13.05:267][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2017.05.08-17.13.05:494][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2017.05.08-17.13.05:669][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.13.05:704][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2017.05.08-17.13.05:942][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2017.05.08-17.13.06:142][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2017.05.08-17.13.06:372][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2017.05.08-17.13.06:599][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2017.05.08-17.13.06:832][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2017.05.08-17.13.07:067][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2017.05.08-17.13.07:274][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2017.05.08-17.13.07:500][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2017.05.08-17.13.07:730][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2017.05.08-17.13.07:932][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 43
+[2017.05.08-17.13.08:165][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 44
+[2017.05.08-17.13.08:396][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2017.05.08-17.13.08:602][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2017.05.08-17.13.08:831][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2017.05.08-17.13.09:064][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2017.05.08-17.13.09:298][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2017.05.08-17.13.09:502][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2017.05.08-17.13.09:704][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2017.05.08-17.13.09:931][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 52
+[2017.05.08-17.13.10:168][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 53
+[2017.05.08-17.13.10:392][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 54
+[2017.05.08-17.13.10:593][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 55
+[2017.05.08-17.13.10:823][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 56
+[2017.05.08-17.13.11:031][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 57
+[2017.05.08-17.13.11:232][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 58
+[2017.05.08-17.13.11:444][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 59
+[2017.05.08-17.13.11:675][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2017.05.08-17.13.11:876][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 61
+[2017.05.08-17.13.12:107][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 62
+[2017.05.08-17.13.12:339][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 63
+[2017.05.08-17.13.12:339][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2017.05.08-17.13.12:571][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 64
+[2017.05.08-17.13.12:806][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 65
+[2017.05.08-17.13.13:007][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 66
+[2017.05.08-17.13.13:210][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 67
+[2017.05.08-17.13.13:439][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 68
+[2017.05.08-17.13.13:659][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2017.05.08-17.13.13:861][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2017.05.08-17.13.14:064][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 71
+[2017.05.08-17.13.14:271][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 72
+[2017.05.08-17.13.14:504][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2017.05.08-17.13.14:734][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 74
+[2017.05.08-17.13.14:971][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2017.05.08-17.13.15:174][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2017.05.08-17.13.15:380][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 77
+[2017.05.08-17.13.15:581][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2017.05.08-17.13.15:676][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2017.05.08-17.13.15:818][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2017.05.08-17.13.16:048][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2017.05.08-17.13.16:249][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2017.05.08-17.13.16:412][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2017.05.08-17.13.16:473][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2017.05.08-17.13.16:703][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2017.05.08-17.13.16:935][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2017.05.08-17.13.17:162][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2017.05.08-17.13.17:391][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2017.05.08-17.13.17:593][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2017.05.08-17.13.17:815][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2017.05.08-17.13.18:030][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2017.05.08-17.13.18:245][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2017.05.08-17.13.18:469][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2017.05.08-17.13.18:686][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 92
+[2017.05.08-17.13.18:910][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 93
+[2017.05.08-17.13.19:140][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 94
+[2017.05.08-17.13.19:362][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 95
+[2017.05.08-17.13.19:590][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 96
+[2017.05.08-17.13.19:794][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 97
+[2017.05.08-17.13.19:995][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 98
+[2017.05.08-17.13.20:199][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 99
+[2017.05.08-17.13.20:429][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100
+[2017.05.08-17.13.22:814][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.13.22:890][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.05.08-17.16.43:410][800]LogSavePackage: Save=1528.91ms
+[2017.05.08-17.16.43:410][800]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/ThirdPersonExampleMap_Auto43F3E9190497B0F1351D7B29D4BD7A98B.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2017.05.08-17.16.43:455][800]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2017.05.08-17.16.43:471][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 3.416
+[2017.05.08-17.16.43:471][800]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.416
+[2017.05.08-17.16.43:481][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDWidget] ([1] browsable assets)...
+[2017.05.08-17.16.43:481][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDWidget]
+[2017.05.08-17.16.44:689][800]LogSavePackage: Save=1065.95ms
+[2017.05.08-17.16.44:689][800]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/HUDWidget_Auto4414CC93E4049E295393F2FBEE504077E.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDWidget_Auto4.uasset'
+[2017.05.08-17.16.44:780][800]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDWidget_Auto4.uasset
+[2017.05.08-17.16.44:796][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup] ([1] browsable assets)...
+[2017.05.08-17.16.44:796][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup]
+[2017.05.08-17.16.45:032][800]LogSavePackage: Save=186.28ms
+[2017.05.08-17.16.45:032][800]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/WoodInvPickup_Auto4AD00A774427CED3FE395CB9BE276CF3E.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto4.uasset'
+[2017.05.08-17.16.45:083][800]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto4.uasset
+[2017.05.08-17.16.45:083][800]LogFileHelpers: Auto-saving content packages took 1.611
+[2017.05.08-17.20.02:375][392]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aepps\Downloads\SurvivalHorror16112016\LogsInvItem.png)
+[2017.05.08-17.20.02:383][392]LogTexture:Display: Building textures: LogsInvItem (AutoDXT, 100X100) - 132 MB total VRAM
+[2017.05.08-17.20.10:399][416]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX)
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: Model, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: Material, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.05.08-17.20.10:511][416]LogFbx: ItemName: Video, ItemCount : 1
+[2017.05.08-17.20.10:534][416]LogFbx: Loading FBX Scene from C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX
+[2017.05.08-17.20.10:562][416]LogFbx: FBX Scene Loaded Succesfully
+[2017.05.08-17.22.01:767][ 64]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX)
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: Model, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: Material, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.05.08-17.22.01:773][ 64]LogFbx: ItemName: Video, ItemCount : 1
+[2017.05.08-17.22.01:778][ 64]LogFbx: Loading FBX Scene from C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX
+[2017.05.08-17.22.01:787][ 64]LogFbx: FBX Scene Loaded Succesfully
+[2017.05.08-17.22.08:222][ 64]LogFbx: Loading FBX Scene from C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX
+[2017.05.08-17.22.08:230][ 64]LogFbx: FBX Scene Loaded Succesfully
+[2017.05.08-17.22.08:257][ 64]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex'
+[2017.05.08-17.22.08:258][ 64]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex'
+[2017.05.08-17.22.08:294][ 64]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/HUDAssets/low_3ds_1500'
+[2017.05.08-17.22.08:294][ 64]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/HUDAssets/low_3ds_1500'
+[2017.05.08-17.22.08:295][ 64]LogStreaming:Warning: Failed to read file 'low_3ds_1500' error.
+[2017.05.08-17.22.08:295][ 64]LogStreaming:Warning: Failed to read file 'C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500' error.
+[2017.05.08-17.22.08:295][ 64]LogStreaming:Warning: Failed to read file 'C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500' error.
+[2017.05.08-17.22.08:295][ 64]LogFbxMaterialImport:Warning: Unable to find TEXTure file low_3ds_1500. Tried:
+ - low_3ds_1500
+ - C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500
+ - C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500
+[2017.05.08-17.22.08:313][ 64]LogMaterial: Missing cached shader map for material c_tex, compiling. 
+[2017.05.08-17.22.08:319][ 64]LogTemp:Display: Added material ShaderMap 0x0000000070F07900 with Material 0x0000000070ECA980 to ShaderMapsBeingCompiled
+[2017.05.08-17.22.08:357][ 64]LogTemp:Display: Kicking off shader compilation for c_tex, GameThreadShaderMap 0x0000000070F07900
+[2017.05.08-17.22.08:366][ 64]LogStaticMesh: Building static mesh Logs_Mesh...
+[2017.05.08-17.22.08:409][ 64]LogStaticMesh: Built static mesh [0.04s] /Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh.Logs_Mesh
+[2017.05.08-17.22.08:636][ 64]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.05.08-17.22.17:671][222]LogTemp:Display: Finished compile of shader map 0x0000000070F07900
+[2017.05.08-17.22.17:671][222]LogTemp:Display: Shader map c_tex complete, GameThreadShaderMap 0x0000000070F07900, marking material c_tex as finished
+[2017.05.08-17.22.17:671][222]LogTemp:Display: Marking material as finished 0x0000000070ECA980
+[2017.05.08-17.22.28:847][398]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.08-17.24.36:490][887]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX)
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: Model, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: Material, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.05.08-17.24.36:495][887]LogFbx: ItemName: Video, ItemCount : 1
+[2017.05.08-17.24.36:500][887]LogFbx: Loading FBX Scene from C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX
+[2017.05.08-17.24.36:508][887]LogFbx: FBX Scene Loaded Succesfully
+[2017.05.08-17.24.39:518][887]LogFbx: Loading FBX Scene from C:\Users\aepps\Downloads\SurvivalHorror16112016\Logs_Mesh.FBX
+[2017.05.08-17.24.39:526][887]LogFbx: FBX Scene Loaded Succesfully
+[2017.05.08-17.24.39:536][887]LogStreaming:Warning: Failed to read file 'low_3ds_1500' error.
+[2017.05.08-17.24.39:536][887]LogStreaming:Warning: Failed to read file 'C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500' error.
+[2017.05.08-17.24.39:536][887]LogStreaming:Warning: Failed to read file 'C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500' error.
+[2017.05.08-17.24.39:536][887]LogFbxMaterialImport:Warning: Unable to find TEXTure file low_3ds_1500. Tried:
+ - low_3ds_1500
+ - C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500
+ - C:\Users\aepps\Downloads\SurvivalHorror16112016/low_3ds_1500
+[2017.05.08-17.24.39:544][887]LogMaterial: Missing cached shader map for material c_tex, compiling. 
+[2017.05.08-17.24.39:545][887]LogTemp:Display: Added material ShaderMap 0x000000005DC12780 with Material 0x000000005507FE80 to ShaderMapsBeingCompiled
+[2017.05.08-17.24.39:559][887]LogTemp:Display: Kicking off shader compilation for c_tex, GameThreadShaderMap 0x000000005DC12780
+[2017.05.08-17.24.39:563][887]LogStaticMesh: Building static mesh Logs_Mesh...
+[2017.05.08-17.24.39:601][887]LogStaticMesh: Built static mesh [0.04s] /Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh.Logs_Mesh
+[2017.05.08-17.24.39:618][887]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.05.08-17.24.45:838][  1]LogTemp:Display: Finished compile of shader map 0x000000005DC12780
+[2017.05.08-17.24.45:838][  1]LogTemp:Display: Shader map c_tex complete, GameThreadShaderMap 0x000000005DC12780, marking material c_tex as finished
+[2017.05.08-17.24.45:838][  1]LogTemp:Display: Marking material as finished 0x000000005507FE80
+[2017.05.08-17.27.22:503][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2017.05.08-17.27.22:515][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup] ([1] browsable assets)...
+[2017.05.08-17.27.22:669][767]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/WoodInvPickup.WoodInvPickup]
+[2017.05.08-17.27.22:669][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup]
+[2017.05.08-17.27.22:886][767]LogSavePackage: Save=179.78ms
+[2017.05.08-17.27.22:886][767]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/WoodInvPickup_Auto55F4DB1A440364F6CA453AB9D9361410D.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto5.uasset'
+[2017.05.08-17.27.22:920][767]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto5.uasset
+[2017.05.08-17.27.22:935][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LogsInvItem] ([1] browsable assets)...
+[2017.05.08-17.27.22:938][767]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/LogsInvItem.LogsInvItem]
+[2017.05.08-17.27.22:938][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LogsInvItem]
+[2017.05.08-17.27.23:020][767]LogSavePackage: Save=40.10ms
+[2017.05.08-17.27.23:020][767]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/LogsInvItem_Auto5B0A0E9E84B1360BA573899A347805D48.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/LogsInvItem_Auto5.uasset'
+[2017.05.08-17.27.23:048][767]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/LogsInvItem_Auto5.uasset
+[2017.05.08-17.27.23:056][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh] ([1] browsable assets)...
+[2017.05.08-17.27.23:115][767]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh.Logs_Mesh]
+[2017.05.08-17.27.23:115][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh]
+[2017.05.08-17.27.23:257][767]LogSavePackage: Save=106.83ms
+[2017.05.08-17.27.23:257][767]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/Logs_Mesh_Auto5399475F74515C71F6960E8B88CF4FBBA.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh_Auto5.uasset'
+[2017.05.08-17.27.23:284][767]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Logs_Mesh_Auto5.uasset
+[2017.05.08-17.27.23:296][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex] ([1] browsable assets)...
+[2017.05.08-17.27.23:350][767]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex.c_tex]
+[2017.05.08-17.27.23:350][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex]
+[2017.05.08-17.27.23:425][767]LogSavePackage: Save=43.21ms
+[2017.05.08-17.27.23:425][767]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/c_tex_Auto579A735644D84669A1556E29096A8A25E.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex_Auto5.uasset'
+[2017.05.08-17.27.23:450][767]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/c_tex_Auto5.uasset
+[2017.05.08-17.27.23:450][767]LogFileHelpers: Auto-saving content packages took 0.946
+[2017.05.08-17.37.23:750][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2017.05.08-17.37.23:761][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup] ([1] browsable assets)...
+[2017.05.08-17.37.23:803][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/WoodInvPickup.WoodInvPickup]
+[2017.05.08-17.37.23:804][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup]
+[2017.05.08-17.37.24:005][136]LogSavePackage: Save=176.12ms
+[2017.05.08-17.37.24:006][136]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/WoodInvPickup_Auto6229DC26A49273B6EDB19FB946E7AF075.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto6.uasset'
+[2017.05.08-17.37.24:027][136]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto6.uasset
+[2017.05.08-17.37.24:027][136]LogFileHelpers: Auto-saving content packages took 0.276
+[2017.05.08-17.45.25:635][895]BlueprintLog: New page: Compile WoodInvPickup
+[2017.05.08-17.45.38:782][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2017.05.08-17.45.49:371][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.08-17.47.28:016][842]LogSavePackage: Save=1563.37ms
+[2017.05.08-17.47.28:016][842]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/ThirdPersonExampleMap_Auto78B7233CE4965290875E30188F259C600.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2017.05.08-17.47.28:061][842]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2017.05.08-17.47.28:072][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 3.593
+[2017.05.08-17.47.28:072][842]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.593
+[2017.05.08-17.47.28:089][842]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup] ([1] browsable assets)...
+[2017.05.08-17.47.28:132][842]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/WoodInvPickup.WoodInvPickup]
+[2017.05.08-17.47.28:132][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WoodInvPickup]
+[2017.05.08-17.47.28:354][842]LogSavePackage: Save=194.58ms
+[2017.05.08-17.47.28:354][842]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/WoodInvPickup_Auto7443E41B84BBE852A7AE7C2A387D734B5.tmp' to 'H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto7.uasset'
+[2017.05.08-17.47.28:375][842]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WoodInvPickup_Auto7.uasset
+[2017.05.08-17.47.28:375][842]LogFileHelpers: Auto-saving content packages took 0.298
+[2017.05.08-17.51.15:636][562]LogSavePackage: Save=1509.73ms
+[2017.05.08-17.51.15:636][562]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/ThirdPersonExampleMapB36192A9498A1480C68EFFBF6C5FC058.tmp' to 'H:/HorrorGame/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.05.08-17.51.15:777][562]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.05.08-17.51.15:900][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="H:/HorrorGame/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2017.05.08-17.51.17:854][562]LogSavePackage: Save=1155.46ms
+[2017.05.08-17.51.17:855][562]LogSavePackage: Moving 'H:/HorrorGame/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltDataB4CBC78849BD937655BE36B02CC5836C.tmp' to 'H:/HorrorGame/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.05.08-17.51.17:902][562]LogSavePackage:Display: Finished SavePackage H:/HorrorGame/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
