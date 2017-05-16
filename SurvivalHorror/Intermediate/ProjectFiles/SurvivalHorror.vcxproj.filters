@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SurvivalHorror.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{E55FF653-BC84-47B4-9727-F8260122FE38}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SurvivalHorror.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SurvivalHorrorEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0B0C4FD2-0293-4AAB-B84B-DF202EE442BD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SurvivalHorror">
+			<UniqueIdentifier>{48641D51-AD01-4723-9113-19718125D5FC}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SurvivalHorror\AICharacter.cpp">
+			<Filter>Source\SurvivalHorror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivalHorror\AICharacter.h">
+			<Filter>Source\SurvivalHorror</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\SurvivalHorror\SurvivalHorror.Build.cs">
+			<Filter>Source\SurvivalHorror</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SurvivalHorror\SurvivalHorror.cpp">
+			<Filter>Source\SurvivalHorror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SurvivalHorror\SurvivalHorror.h">
+			<Filter>Source\SurvivalHorror</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
